@@ -3,7 +3,7 @@
 - Arknights handle: AwakenedFuyu#6409
 - Call me Tamaume (玉梅) or Fuyu. Please do not call my real first name (though the kanjis gave out that info anyway).
 - Mainly Sniperknights player.
-- Favorites:
+- Favorites *(favorite branches and operators are independent)*:
 
 |             | Branch              | Operator                   |
 | :---------: | :-----------------: | :------------------------: |

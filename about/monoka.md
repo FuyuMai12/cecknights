@@ -10,7 +10,7 @@
 | :---------: | :-----------------: | :------------------------: |
 | Vanguard    | Pioneer             | Scavenger                  |
 | Guard       | Centurion/Lord      | Pallas/Młynar              |
-| Defender    | Juggernaut          | Hoshiguma                  |
+| Defender    | Juggernaut          | Hoshiguma/Vulcan           |
 | Sniper      | Artilleryman        | W                          |
 | Caster      | Phalanx Caster      | Mostima                    |
 | Medic       | Multi-target Medic  | Perfumer                   |

@@ -7,7 +7,7 @@
 
 ## I. In-depth từng module
 
-1. Vermeil **(MAR-X)**
+### 1. Vermeil **(MAR-X)**
 
 | Level | Attributes | Trait | Talent |
 | :--- | :--- | :--- | :--- |
@@ -42,7 +42,7 @@ Personal rating:
 | 2 | C+ | C | C | C |
 | 3 | C+ | C | C | C |
 
-2. Meteor **(MAR-X)**
+### 2. Meteor **(MAR-X)**
 
 | Level | Attributes | Trait | Talent |
 | :--- | :--- | :--- | :--- |
@@ -69,7 +69,7 @@ Personal rating:
 | 2 | C+ | C | C | C |
 | 3 | C+ | C | C+ | C+ |
 
-3. Jessica **(MAR-Y)**
+### 3. Jessica **(MAR-Y)**
 
 | Level | Attributes | Trait | Talent |
 | :--- | :--- | :--- | :--- |
@@ -129,7 +129,7 @@ Personal rating:
 | 2 | C+ | B | B+ | B |
 | 3 | C+ | B | B+ | B+ |
 
-4. May **(MAR-X)**
+### 4. May **(MAR-X)**
 
 | Level | Attributes | Trait | Talent |
 | :--- | :--- | :--- | :--- |

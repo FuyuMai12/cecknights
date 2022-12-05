@@ -1,5 +1,5 @@
 # Thoughts on Marksman's modules
-## Author: [Tamaume](../about/tamaume.md)
+## Author: [Tamaume](../about/tamaume.md){:target="_blank"}
 
 *Modules for Marksman Snipers sẽ về ở event Dorothy's Vision. Trước khi về thì tui sẽ phân tích lý thuyết chuyên sâu mớ này.*
 
@@ -51,7 +51,7 @@ Personal rating:
 | 2 | HP **+150**, ATK **+27** | Attacks aerial enemies first. When attacking aerial enemies, increase ATK to **110%** | ATK increases to **140%(+5%)** when attacking aerial targets *\[+5%\]* |
 | 3 | HP **+180**, ATK **+30** | Attacks aerial enemies first. When attacking aerial enemies, increase ATK to **110%** | ATK increases to **150%(+5%)** when attacking aerial targets *\[+15%\]* |
 
-Well, well, Meteor~~ite~~. Về cơ bản Meteor ~~rất sếch ([Monoka](../about/monoka.md), 2022)~~ lại là một straightforward 4\* marksman nữa, nhưng với hai tweak nhỏ:
+Well, well, Meteor~~ite~~. Về cơ bản Meteor ~~rất sếch ([Monoka](../about/monoka.md){:target="_blank"}, 2022)~~ lại là một straightforward 4\* marksman nữa, nhưng với hai tweak nhỏ:
     - Bắn drone đau hơn (y u p)
     - DEF debuff
 
@@ -310,7 +310,7 @@ Chắc thứ duy nhất để complain là attribute. Cơ mà nghĩ lại, April
 
 Conclusion: Must-have. ***AT ALL COST.*** Và nhớ pot6 April nhé.
 
-*[Một vid showcase khá hay về module MAR-Y của April, hay chính xác là ẻm broken như thế nào với module.](https://www.youtube.com/watch?v=pP5Iv5Wp2pA)*
+*[Một vid showcase khá hay về module MAR-Y của April, hay chính xác là ẻm broken như thế nào với module.](https://www.youtube.com/watch?v=pP5Iv5Wp2pA){:target="_blank"}*
 
 Personal rating:
 

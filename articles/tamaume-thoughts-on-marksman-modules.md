@@ -3,6 +3,8 @@
 
 *Modules for Marksman Snipers sẽ về ở event Dorothy's Vision. Trước khi về thì tui sẽ phân tích lý thuyết chuyên sâu mớ này.*
 
+{:toc}
+
 ---
 
 ## I. In-depth từng module

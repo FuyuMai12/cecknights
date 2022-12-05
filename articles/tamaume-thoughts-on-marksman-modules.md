@@ -1,5 +1,6 @@
 {:.no_toc}
 # Thoughts on Marksman's modules
+{:.no_toc}
 ## Author: [Tamaume](../about/tamaume.md){:target="_blank"}
 
 *Modules for Marksman Snipers sẽ về ở event Dorothy's Vision. Trước khi về thì tui sẽ phân tích lý thuyết chuyên sâu mớ này.*
